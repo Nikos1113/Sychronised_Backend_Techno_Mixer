@@ -31,7 +31,3 @@ jobs:
       - name: Run Pytest
         run: |
           pytest test_crud.py
-    
-    - name: Run Pytest
-      run: |
-        pytest test_crud.py
