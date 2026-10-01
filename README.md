@@ -1,7 +1,7 @@
-# Techno Tracks Backend API 🎵
+## Tech Stack
 
-# Technologies
- ## - FastAPI, SQLAlchemy, JSON, pydantic models, SQLite
-
-# Operations
-  ## - CRUD, CI/CD for automated testing
+* **Framework**: FastAPI
+* **ORM & Database**: SQLAlchemy 2.0, SQLite
+* **Data Validation**: Pydantic
+* **Testing & HTTP**: Pytest, HTTPX
+* **CI/CD**: GitHub Actions

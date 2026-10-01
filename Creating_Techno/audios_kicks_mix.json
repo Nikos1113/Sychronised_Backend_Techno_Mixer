@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "Blast",
+        "pb_speed": 1.5,
+        "file_path": "hard_techno_audios/tech_kicks/blast.wav"
+    },
+    {
+        "id": 2,
+        "name": "Lucid",
+        "pb_speed": 2,
+        "file_path": "hard_techno_audios/tech_kicks/lucid.wav"
+    },
+    {
+        "id": 3,
+        "name": "Manic",
+        "pb_speed": 0.5,
+        "file_path": "hard_techno_audios/tech_kicks/manic.wav"
+    },
+    {
+        "id": 4,
+        "name": "Cinematic",
+        "pb_speed": 1.75,
+        "file_path": "hard_techno_audios/cinematic.mp3"
+    },
+    {
+        "id": 5,
+        "name": "Electro-Based",
+        "pb_speed": 1.25,
+        "file_path": "hard_techno_audios/electro-based.mp3"
+    },
+    {
+        "id": 6,
+        "name": "Flavio-Drums",
+        "pb_speed": 1.25,
+        "file_path": "hard_techno_audios/flavio-drum-bass.mp3"
+    },
+    {
+        "id": 7,
+        "name": "Flavio-Drums-2",
+        "pb_speed": 1.5,
+        "file_path": "hard_techno_audios/flavio-drums-2.mp3"
+    },
+    {
+        "id": 8,
+        "name": "Forest-Chill",
+        "pb_speed": 2,
+        "file_path": "hard_techno_audios/forest-chill.mp3"
+    },
+    {
+        "id": 9,
+        "name": "Loud-Kevin",
+        "pb_speed": 2,
+        "file_path": "hard_techno_audios/loud-kevin.mp3"
+    },
+    {
+        "id": 10,
+        "name": "O-Metal",
+        "pb_speed": 1.75,
+        "file_path": "hard_techno_audios/overwhelm-metal.mp3"
+    },
+    {
+        "id": 11,
+        "name": "Tech-Bass-Drums",
+        "pb_speed": 1.5,
+        "file_path": "hard_techno_audios/tech_bass_drums.mp3"
+    },
+    {
+        "id": "12",
+        "name": "Adonis",
+        "pb_speed": 0.75,
+        "file_path": "hard_techno_audios/tech_kicks/adonis.wav"
+    }
+]
